@@ -1,5 +1,5 @@
 Soal :
-a = input(), if else, untuk bedain dia kelipatan lima atau bukan
+a = input(), if else, untuk bedain dia kelipatan lima atau bukan.
 
 5 = True,
 10 = True,
